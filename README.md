@@ -1,6 +1,6 @@
 👋 Hi, I’m @vinicius-fernandes
 
-👀 I’m interested in back end development with .NET Core
+👀 I’m interested in back end development with .NET Core and Spring Boot
 
 🌱 I’m currently learning Java and Angular
 
