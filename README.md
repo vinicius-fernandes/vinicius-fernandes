@@ -5,7 +5,7 @@
 
 🎓 I've a bachelor degree in eletrical engineering
 
-
+Visit my page : https://vinicius-fernandes.github.io/
 
 #  Main languages and tools
 <div>
